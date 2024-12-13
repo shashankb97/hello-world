@@ -1,0 +1,2 @@
+Hello, Wellcome to Cloudthat DevOps Training!
+This is Shashank, learning how to use Git.
